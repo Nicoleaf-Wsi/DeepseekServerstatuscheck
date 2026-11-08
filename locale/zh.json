@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek 可用性检测",
+    "description": "每分钟检测一次 DeepSeek 服务器可用性，并在输入框下方显示状态。"
+  }
+}

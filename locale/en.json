@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek availability",
+    "description": "Checks DeepSeek server availability and shows the status under the composer, refreshing every minute."
+  }
+}
